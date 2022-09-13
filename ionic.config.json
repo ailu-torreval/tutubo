@@ -1,0 +1,7 @@
+{
+  "name": "tutubo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
